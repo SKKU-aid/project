@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SKKU-aid/aid-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SKKU-aid/aid-backend.git
